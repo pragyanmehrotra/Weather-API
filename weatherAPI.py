@@ -1,10 +1,3 @@
-'''
-Name: Pragyan Mehrotra
-Roll No: 2018168
-section: A
-group: 8
-'''
-
 import urllib.request
 import datetime
 
